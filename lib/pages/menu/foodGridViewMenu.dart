@@ -11,7 +11,7 @@ class _FoodGridViewMenuState extends State<FoodGridViewMenu> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: new Text("tea"),
+          title: new Text("food"),
           backgroundColor: Colors.orange[400],
         ),
         body: new GridView.builder(
