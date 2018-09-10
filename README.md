@@ -1,8 +1,4 @@
-# bubble_tea_shop_flutter
+bubble tea shop flutter app
 
-A new Flutter project.
+![](tea_gif.gif)
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
